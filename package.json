@@ -1,0 +1,25 @@
+{
+  "name": "product-sans-webfont",
+  "version": "1.0.0",
+  "description": "Product Sans webfont by Google",
+  "main": "GoogleSans.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soham2008xyz/product-sans.git"
+  },
+  "keywords": [
+    "product",
+    "sans",
+    "webfont",
+    "css"
+  ],
+  "author": "Soham Banerjee <soham@renderbit.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soham2008xyz/product-sans/issues"
+  },
+  "homepage": "https://github.com/soham2008xyz/product-sans#readme"
+}
